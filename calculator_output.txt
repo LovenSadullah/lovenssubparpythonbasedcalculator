@@ -1,0 +1,8 @@
+INPUT: Username entered -> alice
+INPUT: Password entered -> ********
+Login successful!
+INPUT: Math mode selected -> reg
+INPUT: Operation selected -> +
+INPUT: First number -> 4.0
+INPUT: Second number -> 4.0
+8.0
